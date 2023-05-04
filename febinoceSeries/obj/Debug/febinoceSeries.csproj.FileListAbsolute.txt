@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\LargestAmong3Numberd\febinoceSeries\febinoceSeries\bin\Debug\febinoceSeries.exe.config
+C:\Users\Admin\Documents\LargestAmong3Numberd\febinoceSeries\febinoceSeries\bin\Debug\febinoceSeries.exe
+C:\Users\Admin\Documents\LargestAmong3Numberd\febinoceSeries\febinoceSeries\bin\Debug\febinoceSeries.pdb
+C:\Users\Admin\Documents\LargestAmong3Numberd\febinoceSeries\febinoceSeries\obj\Debug\febinoceSeries.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\febinoceSeries\febinoceSeries\obj\Debug\febinoceSeries.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\febinoceSeries\febinoceSeries\obj\Debug\febinoceSeries.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\febinoceSeries\febinoceSeries\obj\Debug\febinoceSeries.exe
+C:\Users\Admin\Documents\LargestAmong3Numberd\febinoceSeries\febinoceSeries\obj\Debug\febinoceSeries.pdb
